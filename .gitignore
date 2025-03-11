@@ -1,0 +1,7 @@
+# Python
+stanford_cars/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.eggs/
+*/test_endpoint.py
